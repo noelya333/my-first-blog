@@ -25,7 +25,7 @@ SECRET_KEY = 'bth_v$^m$m2o!^mc5_$s*ak-br+sk+leuzoyi#s2#5#ku#p2d4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['noelya333.pythonanywhere.com']
 
 
 # Application definition
